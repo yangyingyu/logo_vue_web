@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../logo_vue_web/vue-admin-master/vue-admin-master.iml" filepath="$PROJECT_DIR$/../logo_vue_web/vue-admin-master/vue-admin-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vue-admin-master/vue-admin-master.iml" filepath="$PROJECT_DIR$/vue-admin-master/vue-admin-master.iml" />
     </modules>
   </component>
 </project>
